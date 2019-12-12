@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#C73C5E</color>
+    <color name="backColot">#80CBC4</color>
+    <color name="homeBack">#C8E9A0</color>
+    <color name="mainActivityBack">#AFA98D</color>
+    <color name="borderColor">#872525</color>
+
+    <color name="tile0">#CDD1AB</color>
+    <color name="tile2">#C0DF85</color>
+    <color name="tile4">#7DDF64</color>
+    <color name="tile8">#DEB986</color>
+    <color name="tile16">#E18691</color>
+    <color name="tile32">#A7B0CA</color>
+    <color name="tile64">#EF988D</color>
+    <color name="tile128">#ffee00</color>
+    <color name="tile256">#FE5F55</color>
+    <color name="tile512">#A33F3F</color>
+    <color name="tile1024">#C92A2A</color>
+    <color name="tile2048">#404E7C</color>
+
+</resources>
